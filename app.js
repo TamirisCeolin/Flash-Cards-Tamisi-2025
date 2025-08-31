@@ -14,7 +14,9 @@ function criaCartao(categoria, pergunta, resposta) {
     <p>${resposta}</p>
     </div>
     `
-    function viraCartao(){
+    let respostaEstaVisivel = false
+
+    function viraCartao() {
         respostaEstaVisivel = !respostaEstaVisivel
         cartao.classList.toggle('active', respostaEstaVisivel)
     }
