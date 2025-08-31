@@ -6,15 +6,15 @@
 
 body {
     background: url('img/bg-desktop.webp');
-    font-family: 'Bai Jamjuree';
+    font-family: Bai Jamjuree;
 }
 
 #container {
-    display: flex;
+    display: flex; 
     flex-wrap: wrap;
     justify-content: space-between;
-    padding: 2rem;
-    gap: 1rem;
+    padding: 4rem;
+    gap: 3rem;
 }
 
 .cartao {
@@ -77,6 +77,10 @@ body {
     transform: rotateY(180deg);
 }
 
+
+
+
+
 footer {
     background-color: black;
     color: white;
@@ -88,6 +92,6 @@ footer {
 
 footer p {
     text-align: center;
-    font-size: 1rem;
+    font-size: 0.6rem;
     margin-top: 0.5rem;
 }
