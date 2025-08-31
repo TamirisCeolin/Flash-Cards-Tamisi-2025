@@ -3,29 +3,28 @@
     --card-front-color: #144480;
     --card-back-color: #00F4BF;
     --cor-da-borda: #1509f5;
+    --cor-de-fundo: #032044;
 
 }
 
 .cabecalho {
-    background-color: rgb(4, 38, 68);
+     background-color: #032044;
 }
 
 .cabecalho-titulo .cabecalho-texto {
     font-size: 3vw;
     color: #9896b7;
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: "Bai Jamjuree";
     text-align: center;
     width: 100%;
     height: 2rem;
 }
-}
-
 
 
 body {
-    background-color: #032044;
+    background-color: var(--cor-de-fundo);
     /*background: url('img/bg-desktop.webp');*/
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: "Bai Jamjuree";
 }
 
 #container {
