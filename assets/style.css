@@ -49,6 +49,7 @@ body {
     margin-top: 1rem;
     padding: 2rem;
     margin-top: 4rem;
+    font-size: 1.4vw;
 }
 
 .cartao__conteudo__pergunta p {
@@ -91,7 +92,6 @@ footer {
     bottom: 0;
     width: 100%;
     height: 2rem;
-    box-sizing: border-box;
 }
 
 footer p {
