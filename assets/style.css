@@ -6,6 +6,17 @@
 
 }
 
+.cabecalho{
+    background-color: aliceblue;
+}
+
+.cabecalho-titulo .cabecalho-texto{
+    font-size: 1vw;
+    color: #1509f5;
+}
+
+
+
 body {
     background-color: #032044;
     /*background: url('img/bg-desktop.webp');*/
