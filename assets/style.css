@@ -2,12 +2,13 @@
     --text-color: #DBE4EF;
     --card-front-color: #144480;
     --card-back-color: #00F4BF;
-    --cor-da-borda:#1509f5;
-    
+    --cor-da-borda: #1509f5;
+
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background-color: #DBE4EF;
+    /*background: url('img/bg-desktop.webp');*/
     font-family: "Bai Jamjuree";
 }
 
