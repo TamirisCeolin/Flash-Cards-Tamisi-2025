@@ -303,3 +303,63 @@ criaCartao(
     'Quantos lados tem um hexágono?',
     '6'
 )
+
+criaCartao(
+    '52 - Ciências',
+    'Qual é a velocidade da luz no vácuo (em km/s, aproximado)?',
+    '300.000 km/s'
+)
+
+criaCartao(
+    '53 - Matemática',
+    'Qual é o valor do logaritmo de 100 na base 10?',
+    '2'
+)
+
+criaCartao(
+    '54 - História',
+    'Quem foi o líder da Inconfidência Mineira?',
+    'Tiradentes'
+)
+
+criaCartao(
+    '55 - Geografia',
+    'Qual é a capital de Portugal?',
+    'Lisboa'
+)
+
+criaCartao(
+    '56 - Curiosidades',
+    'Qual esporte é conhecido como "esporte bretão"?',
+    'Futebol'
+)
+
+criaCartao(
+    '57 - Ciências',
+    'Qual é o estado físico da água a 0°C em condições normais?',
+    'Sólido'
+)
+
+criaCartao(
+    '58 - Matemática',
+    'Qual é a soma dos ângulos internos de um quadrado?',
+    '360°'
+)
+
+criaCartao(
+    '59 - História',
+    'Qual era o nome do navio que trouxe a família real portuguesa ao Brasil em 1808?',
+    'Nau Príncipe Real'
+)
+
+criaCartao(
+    '60 - Geografia',
+    'Qual país tem a maior população do mundo?',
+    'China'
+)
+
+criaCartao(
+    '61 - Literatura',
+    'Quem é o autor da obra "A Moreninha"?',
+    'Joaquim Manuel de Macedo'
+)
