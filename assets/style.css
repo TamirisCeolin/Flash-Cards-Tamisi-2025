@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #DBE4EF;
+    background-color: #032044;
     /*background: url('img/bg-desktop.webp');*/
     font-family: "Bai Jamjuree";
 }
@@ -84,10 +84,6 @@ body {
     border: 4px solid var(--cor-da-borda);
 }
 
-
-
-
-
 footer {
     background-color: black;
     color: white;
@@ -101,4 +97,24 @@ footer p {
     text-align: center;
     font-size: 1rem;
     margin-top: 0.5rem;
+}
+
+@media (max-width: 560px) {
+    
+    body {
+        /*background: url('img/bg-mobile.webp'), no-repeat cover;*/
+        background-color: #DBE4EF;
+    }
+
+    .cartao {
+        flex: 1 0 calc(100% - 1rem)
+    }
+
+    .cartao__conteudo h3 {
+        font-size: 3vw;
+    }
+
+    .cartao__conteudo p {
+        font-size: 3.8vw;
+    }
 }
