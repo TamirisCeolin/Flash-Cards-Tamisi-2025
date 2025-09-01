@@ -9,22 +9,15 @@
 
 .cabecalho {
      background-color: #032044;
+     position: fixed;
 }
 
 .cabecalho-titulo{
-    font-size: 3vw;
+    font-size: 2vw;
     color: #9896b7;
     font-family: "Bai Jamjuree";
     text-align: center;
 }
-
-.cabecalho-texto{
-    font-size: 3vw;
-    color: #9896b7;
-    font-family: "Bai Jamjuree";
-    text-align: center;
-}
-
 
 body {
     background-color: var(--cor-de-fundo);
@@ -104,9 +97,15 @@ body {
     border: 4px solid var(--cor-da-borda);
 }
 
+.rodape-texto{
+    font-size: 2vw;
+    color: #9896b7;
+    font-family: "Bai Jamjuree";
+    text-align: center;
+}
+
 footer {
-    background-color: black;
-    color: white;
+    background-color:var(--cor-de-fundo);
     position: fixed;
     bottom: 0;
     width: 100%;
