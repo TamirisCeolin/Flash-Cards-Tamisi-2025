@@ -8,11 +8,14 @@
 }
 
 .cabecalho {
-     background-color: #032044;
-     position: fixed;
+    background-color: #032044;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
 }
 
-.cabecalho-titulo{
+.cabecalho-titulo {
     font-size: 2vw;
     color: #9896b7;
     font-family: "Bai Jamjuree";
@@ -97,26 +100,25 @@ body {
     border: 4px solid var(--cor-da-borda);
 }
 
-.rodape-texto{
+.rodape-texto {
     font-size: 2vw;
     color: #9896b7;
     font-family: "Bai Jamjuree";
     text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
 }
 
 footer {
-    background-color:var(--cor-de-fundo);
+    background-color: var(--cor-de-fundo);
     position: fixed;
     bottom: 0;
     width: 100%;
     height: 2rem;
 }
 
-footer p {
-    text-align: center;
-    font-size: 1rem;
-    margin-top: 0.5rem;
-}
+
 
 @media (max-width: 560px) {
 
