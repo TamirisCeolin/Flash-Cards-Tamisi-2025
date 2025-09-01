@@ -10,9 +10,6 @@
 .cabecalho {
     background-color: #032044;
     position: fixed;
-    bottom: 0;
-    width: 100%;
-    height: 2rem;
 }
 
 .cabecalho-titulo {
@@ -105,9 +102,6 @@ body {
     color: #9896b7;
     font-family: "Bai Jamjuree";
     text-align: center;
-    bottom: 0;
-    width: 100%;
-    height: 2rem;
 }
 
 footer {
